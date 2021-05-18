@@ -1,0 +1,1 @@
+仅为SpringBoot启动类入口依赖
