@@ -91,6 +91,6 @@ public class User {
 http://127.0.0.1:port/
 ```
 
-![image-20210518151204981](C:/Users/luck_nhb/AppData/Roaming/Typora/typora-user-images/image-20210518151204981.png)
+![image-20210518151204981](image.png)
 
  最后感谢D2Admin开源Vue模板
